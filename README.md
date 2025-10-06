@@ -7,3 +7,8 @@
 ## Day 2
 - Added JavaScript to add tasks
 - Delete button removes task
+
+## Day 3
+- Tasks saved in LocalStorage
+- Tasks persist after refresh
+- Final polish
